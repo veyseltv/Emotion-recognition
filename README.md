@@ -27,8 +27,9 @@ Emotion detection has become one of the most important elements to be considered
 # Output Of Project
 The purpose of the outputs of this project is to uncover basic recognition and analysis of basic human emotions.
 
-https://github.com/veyseltv/Image-Proccessing/issues/2#issue-704321719
+# Happy
+![Output](https://user-images.githubusercontent.com/59453566/93595242-120b7800-f9c0-11ea-8616-543d42d593c0.jpeg)
 
-
-
+# Normal
+![output-2](https://user-images.githubusercontent.com/59453566/93595245-133ca500-f9c0-11ea-8bf6-5758dfd74c5f.jpeg)
 
