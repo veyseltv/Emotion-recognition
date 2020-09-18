@@ -24,7 +24,7 @@ Emotion detection has become one of the most important elements to be considered
 •	Decision function: After the feature point tracking of the face using parameters such as localized feature Lucas Kanade Optical ﬂow tracker, it is the decision function responsible for detecting the acquired emotion of the subject. These functions make use of classiﬁers such as AdaBoost and SVM for facial emotion recognition. We also benefited from these functions in terms of lightening our project.
 
 Not: This project work has been done with the dataset named fer2013.
-link of dataset : https://www.kaggle.com/deadskull7/fer2013
+Link of dataset : https://www.kaggle.com/deadskull7/fer2013.
 
 # Output Of Project
 The purpose of the outputs of this project is to uncover basic recognition and analysis of basic human emotions.
